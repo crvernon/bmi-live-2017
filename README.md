@@ -1,6 +1,6 @@
 # BMI Live
 
-Code for the **BMI Live** clinic
+Code example for the **BMI Live** clinic
 held at the
 [2017 CSDMS Annual Meeting](http://csdms.colorado.edu/wiki/Form:Annualmeeting),
 May 23-25, in Boulder, Colorado.
